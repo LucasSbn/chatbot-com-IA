@@ -4,7 +4,7 @@ import gradio as gr
 
 openai.api_key = "API-KEY AQUI!"
 
-dataset_path = "FAQ_Cursos_Extenso.xlsx"
+dataset_path = "objects/spreadsheet/FAQ_Cursos_Extenso.xlsx"
 
 try:
     faq_data = pd.read_excel(dataset_path)
