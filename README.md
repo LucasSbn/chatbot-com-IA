@@ -43,6 +43,7 @@ Sinta-se à vontade para fazer fork e enviar pull requests para melhorar o proje
 
 ## Demonstração
 Aqui está uma captura de tela da interface do chatbot:
+
 ![Screenshot do ChatBot](img/print_software.png)
 
 
